@@ -18,12 +18,20 @@ section {
 
 .half-width {
 
+
     width: 50%;
     padding: 5%;
 }
 
 .half-width img {
     width: 80%;
+}
+
+.half-width p {
+
+    text-align: justify;
+
+
 }
 
 .link-bottom {
@@ -35,4 +43,34 @@ section {
     padding: 10px 40px;
     border-radius: 5px;
 
+}
+
+.profilee img {
+    width: 55%;
+}
+
+
+.color-2 {
+    color: blue;
+}
+
+
+
+.and {
+    width: 60%;
+    padding: 5px;
+}
+
+.and p {
+
+    text-align: justify;
+
+}
+
+.tag {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
